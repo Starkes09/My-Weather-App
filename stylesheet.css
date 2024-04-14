@@ -1,7 +1,7 @@
 /* Add your custom styles here */
 body {
   overflow-x: hidden; /* Prevent horizontal scrolling */
-  overflow-y: auto; /* Enable vertical scrolling */
+  overflow-y: auto !important; /* Enable vertical scrolling */
 }
 
 #background-video {
