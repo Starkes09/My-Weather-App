@@ -14,6 +14,10 @@ body {
   z-index: -1; /* Ensure the video is behind other content */
 }
 
+.video-container {
+    filter: brightness(70%); /* Adjust percentage as needed */
+}
+
 .navbar-brand {
   font-weight: bold;
   font-size: larger;
