@@ -15,7 +15,7 @@ body {
 }
 
 .video-container {
-    filter: brightness(70%); /* Adjust percentage as needed */
+    filter: brightness(50%); /* Adjust percentage as needed */
 }
 
 .navbar-brand {
